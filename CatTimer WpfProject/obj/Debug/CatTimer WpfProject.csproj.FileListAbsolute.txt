@@ -1,0 +1,53 @@
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete\Complete(Volume0.2).wav
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete\Complete(Volume0.4).wav
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete\Complete(Volume0.6).wav
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete\Complete(Volume0.8).wav
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete\Complete(Volume1.0).wav
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.exe.config
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.exe
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.pdb
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csproj.AssemblyReference.cache
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\BlackCatControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\CheckBoxControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ClockControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\PausedUiControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\SettingUiControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\TimingControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ToggleControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\YellowCatControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ButtonControl.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\MainWindow.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Code\Notification\NotificationWindow.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\App.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_Content.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_MarkupCompile.cache
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_MarkupCompile.lref
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\App.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\BlackCatControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\CheckBoxControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ClockControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\PausedUiControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\SettingUiControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\TimingControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ToggleControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\YellowCatControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ConverterDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\EnglishTextDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\CheckBoxDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\NoBackgroundButtonDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\SliderDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\ToggleDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ButtonControl.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ChineseTextDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\FontDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ImageDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\MainWindow.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\ButtonDictionary.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Code\Notification\NotificationWindow.baml
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.g.resources
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer_WpfProject.Properties.Resources.resources
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csproj.GenerateResource.cache
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csproj.CoreCompileInputs.cache
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.exe
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.pdb
