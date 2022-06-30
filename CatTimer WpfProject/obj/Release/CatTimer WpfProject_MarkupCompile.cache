@@ -1,0 +1,20 @@
+﻿CatTimer WpfProject
+
+
+winexe
+C#
+.cs
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\obj\Release\
+CatTimer_WpfProject
+none
+false
+TRACE
+G:\C# Projects\Easy-Cat-Timer\CatTimer WpfProject\App.xaml
+21-686315145
+51-2031906522
+30786206748
+151984215308
+Xaml\Control\BlackCatControl.xaml;Xaml\Control\CheckBoxControl.xaml;Xaml\Control\ClockControl.xaml;Xaml\Control\PausedUiControl.xaml;Xaml\Control\SettingUiControl.xaml;Xaml\Control\TimingControl.xaml;Xaml\Control\ToggleControl.xaml;Xaml\Control\YellowCatControl.xaml;Xaml\Dictionary\ConverterDictionary.xaml;Xaml\Dictionary\EnglishTextDictionary.xaml;Xaml\Style\CheckBoxDictionary.xaml;Xaml\Style\NoBackgroundButtonDictionary.xaml;Xaml\Style\SliderDictionary.xaml;Xaml\Style\ToggleDictionary.xaml;Xaml\Control\ButtonControl.xaml;Xaml\Dictionary\ChineseTextDictionary.xaml;Xaml\Dictionary\FontDictionary.xaml;Xaml\Dictionary\ImageDictionary.xaml;MainWindow.xaml;Xaml\Style\ButtonDictionary.xaml;Code\Notification\NotificationWindow.xaml;
+
+True
+
